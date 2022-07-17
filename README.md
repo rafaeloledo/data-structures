@@ -1,1 +1,1 @@
-# Data Strucutres and Algorithms files 
+# Data Structures and Algorithms files 
